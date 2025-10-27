@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Swetha Buddi 👋
 
-<!--
-**Swetha-art-source/Swetha-art-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quality Assurance Engineer | 3.5+ Years Experience | Selenium WebDriver | TestNG | Java | Agile | Web & Email Workflow Testing | Immediate Joiner**
 
-Here are some ideas to get you started:
+Experienced QA Engineer with 3.5 years in the field—3 years in manual testing and 1.5 years in parallel automation. Proficient in designing and executing test cases, defect tracking, and ensuring high-quality software delivery. Specialized in functional, regression, integration, and cross-browser testing for web applications and low-code/no-code platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core Skills:**
+- **Testing Types:** Manual, Functional, Regression, Sanity, Integration, Cross-Browser, Compatibility
+- **Automation Tools:** Selenium WebDriver, TestNG, Maven
+- **API Testing:** Postman
+- **Email Workflow Testing:** Mailosaur
+- **Project Management:** JIRA
+- **Programming:** Java (OOP), SQL, HTML, XML
+- **Version Control:** Git
+- **IDEs:** Eclipse, IntelliJ IDEA
+- **Methodologies:** Agile, Scrum
+- **Platforms:** Web Applications, Windows, Low-Code/No-Code
+
+Recognized for strong analytical skills, collaborative teamwork in Agile environments, and expertise in both manual and automated quality assurance processes.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/swethabuddi/)
